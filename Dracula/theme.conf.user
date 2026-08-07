@@ -1,0 +1,4 @@
+[General]
+background=assets/background.jpg
+showClock=true
+type=image

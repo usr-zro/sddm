@@ -1,0 +1,9 @@
+[SddmGreeterTheme]
+Name=MacOS 9
+Description=Mac OS 9 "Finder Greeter" login screen for the NiceOS 9 KDE theme
+Author=MacOS 9 Theme
+Version=2.0
+Website=
+License=GPL-2.0
+Type=sddm-theme
+Screenshot=preview.png
